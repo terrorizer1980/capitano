@@ -38,7 +38,7 @@
     "sinon-chai": "~2.7.0"
   },
   "dependencies": {
-    "async": "^1.0.0",
+    "async": "^3.2.2",
     "get-stdin": "^4.0.1",
     "is-elevated": "^1.0.0",
     "lodash": "~4.17.10",
